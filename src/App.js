@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import LoginTest from './LoginTest.js'
+import React, { Component } from 'react';
+import LoginTest from './pages/LoginTest';
 
 class App extends Component {
   render() {
